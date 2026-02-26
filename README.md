@@ -39,3 +39,6 @@ pip install -r requirements.txt
 
 3️⃣ Run Application
 python app.py
+
+## 🌐 Live Demo
+👉https://eduproonline-platform-python-project-yhtgmlf5xh9znwp6v6epro.streamlit.app/
