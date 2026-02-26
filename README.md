@@ -23,9 +23,7 @@ Quantitative evidence for pricing decisions
 
 🛠 Tech Stack
 
-Python Pandas NumPy Matplotlib scikit-learn (Machine Learning Models) Pickle (Model Serialization)
-
-Excel Dataset
+Python | Pandas | NumPy | Matplotlib | scikit-learn (Machine Learning Models)  | Pickle (Model Serialization) | Excel Dataset
 
 Library: scikit-learn
 
