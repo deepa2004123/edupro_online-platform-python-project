@@ -32,8 +32,11 @@ Library: scikit-learn
 ▶ How to Run the Project
 1️⃣ Clone Repository
 git clone https://github.com/deepa2004123/edupro_online-platform-python-project.git
+
 cd edupro_online-platform-python-project
+
 2️⃣ Install Dependencies
 pip install -r requirements.txt
+
 3️⃣ Run Application
 python app.py
